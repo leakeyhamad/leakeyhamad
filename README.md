@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Leakey otieno
 
-[Linkedin](https://www.linkedin.com/in/leakey-otieno/)
-
 ---
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
@@ -23,6 +21,9 @@ I am a passionate back-end developer with knowledge in user and business  logic 
 #### ⚡ Tools
 * Git
 * Adobe XD
+
+#### 🌎 Connect
+[Linkedin](https://www.linkedin.com/in/leakey-otieno/)
 
 #### 📝 Major Projects
 [Php-Inventory-System](https://github.com/leakeyhamad/php_inventory_system)<br>
