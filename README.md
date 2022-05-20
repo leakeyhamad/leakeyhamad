@@ -24,7 +24,7 @@ I am a passionate back-end developer with knowledge in user and business  logic 
 * Git
 * Adobe XD
 
-### 📝 Major Projects
+#### 📝 Major Projects
 [Php-Inventory-System](https://github.com/leakeyhamad/php_inventory_system)<br>
 [luwa](https://github.com/leakeyhamad/luwa)
 
