@@ -7,20 +7,27 @@ I am a passionate back-end developer with knowledge in user and business  logic 
 
 ####  🤔 Facts about me
 - 🌱 I’m currently learning Ruby and Ruby on Rails
-- 📝 Did Python Major course in Udemy
+- 📝 Pursued The Python Mega Course 2022:Build 10 Real-World Programs(Udemy)
+- 📝 Pursued Complete Flutter development-build 14 ios and android apps(Udemy)
+- 📝 Completed Flutter Bootcamp 2020: From Zero to Hero in Flutter(Udemy)
 - 📝 I have a Bachelor Degree in IT from Taita Taveta University.
-- ✨ Proficient in Python, Php, Sql, Xampp
+- ✨ Proficient in Python, Php, Dart, Flutter.
 
 #### ⚡ Languages, Frameworks & Database
 * Html, Css and Bootsrap
+* C/C++
+* Java
+* Ruby... Ruby on Rails
+* Dart... Flutter
 * Javascript
-* Python... Flask, Django
+* Python... Flask, Django, FastAPI
 * Php...Xampp
-* SQL
+* Postgresql, SQL
 
 #### ⚡ Tools
 * Git
 * Adobe XD
+* VScode
 
 #### 🌎 Connect
 [Linkedin](https://www.linkedin.com/in/leakey-otieno/)
